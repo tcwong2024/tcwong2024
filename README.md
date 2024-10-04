@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Teck Choy 👋
+
+I'm a Full Stack Developer with a passion for building scalable and impactful solutions.
 
 <!--
 **tcwong2024/tcwong2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
