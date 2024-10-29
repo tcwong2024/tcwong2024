@@ -1,6 +1,6 @@
 ## Hi there, I'm Teck Choy 👋
 
-🌟 **Passionate IT Professional** with over 20 years of diverse experience in **software development**, specializing in web, mobile, and desktop applications. Proficient in a wide array of programming languages and frameworks, including Angular, React Native, C#.NET, and Python. Currently expanding my expertise in **Cloud & DevOps**, focusing on Docker, Kubernetes, AWS services, Terraform and CI/CD practices. I thrive in collaborative environments where I can leverage my skills to drive innovation and streamline development processes.
+🌟 **Passionate IT Professional** with over 20 years of diverse experience in **software development**, specializing in web, mobile, and desktop applications. Proficient in a wide array of programming languages and frameworks, including Angular, React Native, C#.NET, and Python. Currently expanding my expertise in **Cloud, CI/CD & DevOps**, focusing on Docker, Kubernetes, AWS services, Terraform and CI/CD practices. I thrive in collaborative environments where I can leverage my skills to drive innovation and streamline development processes.
 
 In addition to my technical pursuits, I'm a **badminton lover** and an avid **photographer**. I enjoy **cycling**, **hiking**, **traveling** and singing with **guitar**. A **DIY** enthusiast at heart, I cherish spending quality time as a **family man**, constantly seeking new adventures and experiences.
 
